@@ -11,6 +11,7 @@ STEPS
 2) download the data from kaggle
 
 kaggle competitions download -c the-blind-flight-synapse-drive-ps-1
+
 unzip the-blind-flight-synapse-drive-ps-1.zip -d data/
 
 3) Install the required libraries from requirements.txt
