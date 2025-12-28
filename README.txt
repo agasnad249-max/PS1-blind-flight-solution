@@ -8,7 +8,7 @@ Agastya N
 
 STEPS
 1) download the repository
-2) download the data from gaggle
+2) download the data from kaggle
 
 kaggle competitions download -c the-blind-flight-synapse-drive-ps-1
 unzip the-blind-flight-synapse-drive-ps-1.zip -d data/
